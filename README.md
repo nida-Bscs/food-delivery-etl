@@ -1,4 +1,3 @@
-# food-delivery-etl
 Food Delivery ETL Pipeline
 
 A Python ETL pipeline that reads raw food delivery order data from a CSV file, cleans it, and loads it into Snowflake for analysis.
@@ -20,3 +19,4 @@ Every step is logged with timestamps, and file, encoding and database errors are
 Tech stack
 
 Python, pandas, chardet, Snowflake (Snowpark), logging
+
